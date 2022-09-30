@@ -1,0 +1,109 @@
+.u-section-1 {
+  background-image: url("images/af466a2a0734b43ad8c3b3c1341d46b2d29e036684a01e4a6434b2e2f25d54577067acc46df9886cee595a2fc44ae34f5ffadfeaf0421322181739_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 555px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 24px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 471px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 23px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 300px;
+  height: 300px;
+  background-image: url("images/Mehrab.jpg");
+  background-position: 50% 50%;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 0.75rem;
+  margin: 7px auto 0;
+  padding: 3px 11px 4px 10px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 39px auto 0 24px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 471px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 0 auto 0 7px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 7px auto 0 7px;
+}
+
+.u-section-1 .u-btn-2 {
+  animation-duration: 1000ms;
+  border-style: solid;
+  margin: 215px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 26px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 388px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 388px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 230px;
+    height: 230px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+}
